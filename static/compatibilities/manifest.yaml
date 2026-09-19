@@ -53,3 +53,4 @@ names:
 - wiz-network-analyzer
 - kuberay-operator
 - mongodb-kubernetes
+- node-feature-discovery
